@@ -4,7 +4,7 @@ Python program for calculation of parameters for multichannel serving systems wi
 
 Python 3.x
 
-To start use / для запуска в консоли
+Для запуска, в консоли необходимо написать:
 
 `python3 main.py`
 
